@@ -1,5 +1,7 @@
 # DorduncuHaftaOdevi
 
+#Ödev master branchte. :)
+
 Hangfire yada Quartz kullanarak sql server da oluşturduğunuz bir tabloda işlem yapacak job lar geliştiriniz.
 Dataya erişim olarak UnitOfWork veya Dapper kullanabilirsiniz.
 Sql server da kendi random tablonuzu herhangi bir model de oluşturabilirsiniz. (Icerisinde Status isminde bir alan olsun.)
