@@ -1,6 +1,6 @@
 # DorduncuHaftaOdevi
 
-#Ödev master branchte. :)
+# Ödev master branchte. :)
 
 Hangfire yada Quartz kullanarak sql server da oluşturduğunuz bir tabloda işlem yapacak job lar geliştiriniz.
 Dataya erişim olarak UnitOfWork veya Dapper kullanabilirsiniz.
